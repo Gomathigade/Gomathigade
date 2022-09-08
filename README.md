@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- I have completed My Bachelors in Computer Science
+- I have 3 years of Experience
+- I am currently pursuing my masters in Northwest missouri state university
+
+
 <!--
 **Gomathigade/Gomathigade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
